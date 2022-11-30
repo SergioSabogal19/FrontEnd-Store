@@ -1,0 +1,10 @@
+--> Metodologio BEM 
+Metodologia de CSS para nombrar los elementos 
+----> BLoques 
+ Es un contenedor , los elemento son parte de un bloque 
+
+
+---> Modificaadores 
+    Bandera d aviso de diseño diferente 
+
+
